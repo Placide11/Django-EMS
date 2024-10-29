@@ -1,1 +1,1 @@
-# Django-EMS
+# Django-UniResMan
